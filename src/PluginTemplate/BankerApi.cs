@@ -16,7 +16,7 @@ namespace Banker.Api
 {
     public class BankerApi
     {
-        public List<NpcCustomAmount> npcCustomAmounts = new List<NpcCustomAmount>()
+        public List<NpcCustomAmount> NpcCustomAmounts = new List<NpcCustomAmount>()
         {
             new NpcCustomAmount(NPCID.EyeofCthulhu, 100, Color.Red),
             new NpcCustomAmount(NPCID.EaterofWorldsHead, 100, Color.MediumPurple),
