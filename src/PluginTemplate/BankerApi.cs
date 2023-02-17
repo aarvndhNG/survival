@@ -19,7 +19,7 @@ namespace Banker.Api
         public List<NpcCustomAmount> NpcCustomAmounts = new List<NpcCustomAmount>()
         {
             new NpcCustomAmount(NPCID.EyeofCthulhu, 100, Color.Red),
-            new NpcCustomAmount(NPCID.EaterofWorldsHead, 100, Color.MediumPurple),
+            new NpcCustomAmount(NPCID.EaterofWorldsHead, 100, Color.Purple),
             new NpcCustomAmount(NPCID.BrainofCthulhu, 100, Color.Red),
         };
 
